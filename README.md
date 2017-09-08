@@ -11,4 +11,4 @@ http://www.eecs.qmul.ac.uk/~andrea/avss2007_d.html
 
 The script are shared as it is. It was written more than 3 years ago with the various packages and versions available at that moment in time. I am not sure if it works with the current versions. Please go through the script and amend the path to the input file, and make any necessary adjustments.
 
-I am sharing this to you. And i hope that you will this useful. 
+I hope that you will this useful. 
